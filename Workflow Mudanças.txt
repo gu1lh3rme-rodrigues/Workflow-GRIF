@@ -1,0 +1,16 @@
+Mudanças Programa:
+* Tamanho das Telas
+* icone de Fotos usuario versão ADM
+-Tela Home
+-Tela cadastro de Equipes
+-Cadastro Tarefa
+-avaliação de Tarefas
+-"Quando entra no chat pelo Geral, a foto não é carregada"//quando carrega uma pagina pela 2° barra lateral não dá load de foto
+-Fotos dos membros equipes na tela Pesquisa Membro
+-Fotos dos membros equipes na tela Ranking
+-Fotos dos membros equipes na tela Ranking Estatisticas
+
+
+
+
+* Botão cadastrar na tela login
